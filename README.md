@@ -2,7 +2,7 @@
 Gym-Fitness Website
 
 Visit or Click on This Link to See the Website 
-https://yemyintsoe.github.io/Gym-Fitness/
+https://yemyintsoe.github.io/gym-fitness/
 
 Language Used
 =============
